@@ -1,0 +1,28 @@
+body{
+    font-family:Arial;
+    background: #fafafa;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+
+}
+.container{
+    text-align: center;
+    width: 400px;
+
+}
+input{
+    padding: 10px;
+    margin: 10px;
+    width: 180px;
+}
+button{
+    list-style-type:none;
+    padding: 0;
+}
+li{
+    margin: 8px 0;
+    background: #fff;
+    padding: 10px;
+    box-shadow: 0 0 5px #ccc;
+}
